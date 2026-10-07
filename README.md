@@ -716,5 +716,5 @@ to your real Streamlit URL **after deployment**, for example:
 ```markdown
 ## 🌐 Live Application
 
-🚀 **Live Demo:** [CineSentiment AI](YOUR_STREAMLIT_URL)
+🚀 **Live Demo:** [CineSentiment AI](https://cinesentiment-ai.streamlit.app/)
 ```
